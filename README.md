@@ -2,9 +2,9 @@
 
 Create a directory, for example `sapper-app`
 
-Clone this repo and and place this under `sapper-app` directory
+Clone this repo and and place under `sapper-app` directory
 
-Change directory to this repo
+Change directory 
 ```
 cd dropdown-menu-example-sapper-app
 ```

@@ -1,0 +1,1 @@
+<h1 class="text-center">This is Features Page</h1>

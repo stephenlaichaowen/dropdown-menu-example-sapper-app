@@ -1,3 +1,31 @@
+# How to setup this project
+
+Create a directory, for example `sapper-app`
+
+Clone this repo and and place this under `sapper-app` directory
+
+Change directory to this repo
+```
+cd dropdown-menu-example-sapper-app
+```
+
+Install all the dependencies
+```
+npm i
+```
+
+Start development
+```
+npm run dev
+```
+
+Generate production build (client side)
+```
+npm run export
+```
+
+And there you go !!!
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
